@@ -1,0 +1,7 @@
+/home/adminuser/myaspnetapplication/publish/myaspnetapplication
+/home/adminuser/myaspnetapplication/publish/appsettings.Development.json
+/home/adminuser/myaspnetapplication/publish/appsettings.json
+/home/adminuser/myaspnetapplication/publish/myaspnetapplication.dll
+/home/adminuser/myaspnetapplication/publish/myaspnetapplication.deps.json
+/home/adminuser/myaspnetapplication/publish/myaspnetapplication.runtimeconfig.json
+/home/adminuser/myaspnetapplication/publish/myaspnetapplication.pdb
